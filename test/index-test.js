@@ -1,4 +1,5 @@
-"use strict"
+"use strict" 
+
 describe('index', function() {
 
   describe('`countdown` function', function () {
